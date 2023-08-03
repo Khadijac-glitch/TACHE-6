@@ -2,7 +2,7 @@
     .uno p{
         flex-direction: row;
         position: relative;
-        bottom: 10px;
+        bottom: 15px;
         right: 200px;
         color:#ffa500;
         font-size:6px;
@@ -12,7 +12,7 @@
         display: inline;
         position: relative;
         left:100px;
-        bottom: 10px;
+        bottom:16px;
         color:#ffa500;
         font-size: 6px;
     }
@@ -31,7 +31,7 @@
     }
     .fit p{
         position: relative;
-        top: -30px;
+        top: -40px;
         right:300px;
         color: white;
         display: flex;
@@ -42,11 +42,11 @@
         flex-direction:column;
         position: relative;
         left:10px;
-        bottom:75px;
+        bottom:79px;
     }
     .fact img{
-        width: 16px;
-        height: 16px;
+        width:14px;
+        height:14px;
     }
     .section1 img{
         width:85px;
