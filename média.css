@@ -1,0 +1,115 @@
+@media  only screen and (max-width: 600px){
+    .uno p{
+        flex-direction: row;
+        position: relative;
+        bottom: 10px;
+        right: 200px;
+        color:#ffa500;
+        font-size:6px;
+    } 
+    .duo{
+        margin-right: 100px;
+        display: inline;
+        position: relative;
+        left:100px;
+        bottom: 10px;
+        color:#ffa500;
+        font-size: 6px;
+    }
+    
+    .fit a{
+        color:black;
+        font-size:10px;
+     
+    }
+    .fit img{
+        width:40px;
+        height:54px;
+        position:relative;
+        left:10px;
+        bottom:35px;
+    }
+    .fit p{
+        position: relative;
+        top: -30px;
+        right:300px;
+        color: white;
+        display: flex;
+       flex-direction: row;
+    }
+    .fact{
+        display: flex;
+        flex-direction:column;
+        position: relative;
+        left:10px;
+        bottom:75px;
+    }
+    .fact img{
+        width: 16px;
+        height: 16px;
+    }
+    .section1 img{
+        width:85px;
+        height:70px;
+        position: relative;
+        left:130px;
+        top:50px;
+    }
+    .ors{
+        position: relative;
+        left:133px;
+    }
+    .blanc legend{
+        font-size: 20px;   
+    }
+    .section2{
+        display: grid;
+        grid-template-columns:200px 100px;
+        background-color: rgb(221, 224, 224);
+    }
+    .blanc img{
+        width: 300px;
+        height: 200px;
+        position: relative;
+        bottom:40px;
+        left:40px;
+    }
+    fieldset{
+        height:180px;
+        width: 260px;
+        position: relative;
+        bottom:240px ;
+        left:60px;
+    }
+    .blancs legend{
+        font-size: 20px;   
+    }
+    .blancs{
+        top:700px;
+        position: relative;
+        right:780px;
+    }
+    .blancs img{
+        width: 300px;
+        height: 200px;
+        /* position: relative;
+        bottom:20px;
+        left:40px; */
+    }
+    .fiel{
+        height:180px;
+        width: 260px;
+        position:relative;
+        bottom:737px;
+    }
+    .section2{
+        height:400px;
+    }
+    .section2 p{
+        text-align: center;
+        position: relative;
+        left:80px;
+        top:120px;
+        font-size:30px;
+    }
+}
