@@ -1,0 +1,56 @@
+ @media  only screen and (max-width:900px){
+    .uno p{
+   position: relative; 
+   right: 210px;  
+   bottom: 10px;
+   color: #ffa500; 
+    } 
+    .duo{
+        position: relative; 
+        right:89px;
+        bottom: 5px;  
+        color: #ffa500; 
+    }
+    
+    .fit img{
+       position: relative;
+       left:8px;
+    }
+    .fit a{
+    position: relative; 
+    bottom:80px;
+    right:150px;;
+    }
+    .fact{
+        position: relative; 
+        bottom:65px;
+        right:200px;
+    }
+  
+    .un{
+   position: relative;
+   right:300px;
+   }
+   .section1 h1{
+   position: relative;
+   right:100px;
+   }
+.section1 p{
+    position: relative;
+    right:90px;
+  }
+    button{
+        margin-left:300px;
+        margin-top:200px;
+    }
+    .blancs{
+        position: relative;
+        right:220px ;
+    }
+    .blanc{
+        position: relative;
+        right:220px;  
+    }
+    
+} 
+
