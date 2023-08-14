@@ -48,10 +48,7 @@
         width:14px;
         height:14px;
     }
-    .section1{
-        width:380px;
-    }
-    .section1 img{
+    .un img{
         width:85px;
         height:70px;
         position: relative;
@@ -59,12 +56,16 @@
         top:50px;
     }
     button{
-        margin-left:135px;
+        margin-left:115px;
         margin-top:200px;
     }
     .ors{
         position: relative;
         left:133px;
+    }
+    .blanc{
+        position: relative;
+        right:10px;  
     }
     .blanc legend{
         font-size: 20px;   
@@ -94,7 +95,7 @@
     .blancs{
         top:700px;
         position: relative;
-        right:780px;
+        right:790px;
     }
     .blancs img{
         width: 300px;
@@ -119,4 +120,64 @@
         top:120px;
         font-size:30px;
     }
+    
 }
+
+@media  only screen and (max-width:900px){
+    .uno p{
+   position: relative; 
+   right: 210px;  
+   bottom: 10px;
+   color: #ffa500; 
+    } 
+    .duo{
+        position: relative; 
+        right:89px;
+        bottom: 5px;  
+        color: #ffa500; 
+    }
+    
+    .fit img{
+       position: relative;
+       left:8px;
+    }
+    .fit a{
+    position: relative; 
+    bottom:80px;
+    right:150px;;
+    }
+    .fact{
+        position: relative; 
+        bottom:65px;
+        right:200px;
+    }
+    .fact img{
+       
+    }
+    .un{
+   position: relative;
+   right:300px;
+   }
+   .section1 h1{
+   position: relative;
+   right:100px;
+   }
+.section1 p{
+    position: relative;
+    right:90px;
+  }
+    button{
+        margin-left:300px;
+        margin-top:200px;
+    }
+    .blancs{
+        position: relative;
+        right:220px ;
+    }
+    .blanc{
+        position: relative;
+        right:220px;  
+    }
+    
+}
+
