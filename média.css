@@ -1,30 +1,31 @@
 @media  only screen and (max-width: 600px){
     body{
-     width:900px;
+     width:700px;
     }
     .uno p{
         position: relative;
-        right:200px;
+        right:250px;
+        bottom: 10px;
         color:#ffa500;
         font-size:10px;
     } 
     .duo{
         position: relative;
-        right: 60px;
+        left:60px;
         bottom: 5px;
         color:#ffa500;
         font-size:10px;
     }
     .un{
         position: relative;
-        left: 250px;
+        left: 150px;
         }
    
     .fit a{
         position: relative;
         right: 200px;
         color:black;
-        font-size:10px;
+        font-size:12px;
      
     }
     .fit img{
@@ -34,7 +35,7 @@
     .fact{
         position: relative;
         top: 5px;
-        right:150px;
+        right:80px;
     }
     .fact img{
         width:14px;
@@ -47,10 +48,12 @@
         left:130px;
         top:50px;
     }
+    .section1 h1{
+       font-size:58px;
+    }
     button{
-    
-            position: relative;
-            right:200px;
+       position: relative;
+       right:330px;
     
     }
     .ors{
@@ -59,12 +62,12 @@
     }
     .blanc{
         position: relative;
-        left: 100px;  
+        left: 150px;  
     }
     .blancs{
         position: relative;
-        top:500px;
-        right:380px;
+        top:700px;
+        right:630px;
     }
     .blanc legend{
         font-size: 20px;   
@@ -111,8 +114,8 @@
     .section2 p{
         text-align: center;
         position: relative;
-        left:330px;
-        top:120px;
+        left:230px;
+        top:180px;
         font-size:30px;
     }
     
